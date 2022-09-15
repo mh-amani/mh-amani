@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mh-amani
-- 👀 I’m interested in applied statistics and machine learning
-- 🌱 I’m currently learning geometric deep learning and game theory.
-- 💞️ I’m looking to collaborate on projects that require statistical modelling and working with data, specifically, if they are related to climate change and/or social good.
+- 👀 I’m interested in understanding machine learning and intelligence
+- 🌱 I’m currently working on [the binding problem](https://arxiv.org/abs/2012.05208)
+- 💞️ I’d also be happy to collaborate on projects that require statistical modelling and working with data, specifically, if they are related to climate change and/or social good.
 - 📫 You can best reach me by email.
 
 <!---
